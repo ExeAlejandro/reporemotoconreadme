@@ -1,4 +1,3 @@
 # reporemotoconreadme
-un repositorio remoto con readme
-
-"probamos un cambio en el archivo README"
+el es el repositorio de 
+Alejandro 
